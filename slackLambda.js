@@ -29,3 +29,5 @@ exports.handler = async (event, context) => {
     }
   })
 }
+
+// todo: check error logs and refactor with async/await
